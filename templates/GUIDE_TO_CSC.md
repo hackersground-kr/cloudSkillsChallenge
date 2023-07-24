@@ -60,6 +60,8 @@
 
 ![csc-study-crew-recruiting](https://github.com/hackersground-kr/cloudSkillsChallenge/blob/main/assets/csc-study-crew-recruiting.jpg?raw=true)
 
+위 그림과 같이 캡틴 분들께서 스터디 팀의 방향을 작성해두셨을 겁니다. 동료를 찾아 챌린지에 함께하세요!
+
 ## QnA
 
 궁금한 부분은 [디스코드](https://aka.ms/hg/discord)로 문의하세요!
