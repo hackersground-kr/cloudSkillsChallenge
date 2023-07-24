@@ -35,7 +35,7 @@
 1. 참가신청 후 곧바로 수강을 시작합니다.
 1. 총 6개의 챌린지 미션을 모두 완료합니다.
 1. 각 챌린지 미션을 완료할 때 마다 [이슈를 생성해][sumbit] 운영진에게 제출합니다.
-1. 챌린지 도중 궁금한 사항이 있을 땐 언제든 [디스코드 질문/답변][qna]을 이용해 주세요.
+1. 챌린지 도중 궁금한 사항이 있을 땐 언제든 [디스코드 질문/답변][qna] 채널을 이용해 주세요.
 
 ## 🏆 해커그라운드 클라우드 스킬 챌린지 상품
 
@@ -101,7 +101,7 @@
 </div>
 
 
-[submit]: https://github.com/hackersground-kr/cloudSkiilsChallenge
+[submit]: https://github.com/hackersground-kr/CloudSkillsChallenge/issues
 [qna]: https://aka.ms/hg/discord
 [privacy]: https://github.com/microsoft/hackers-ground/blob/main/PRIVACY_POLICY.md
 [coc]: https://github.com/microsoft/hackers-ground/blob/main/CODE_OF_CONDUCT.md
