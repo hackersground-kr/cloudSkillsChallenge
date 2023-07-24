@@ -46,7 +46,7 @@
 
 ## 챌린지 완료인증
 
-6가지 챌린지 중 토픽을 하나씩 완료할 때마다 [깃헙 레포](https://github.com/microsoft/hackers-ground/issues)에 아래 정보를 포함해 이슈를 작성해 주세요.
+6가지 챌린지 중 토픽을 하나씩 완료할 때마다 [깃헙 레포](https://github.com//hackersground-kr/CloudSkillsChallenge/issues)에 아래 정보를 포함해 이슈를 작성해 주세요.
 
 즉, 1가지 토픽을 완료하면 이슈 1개를 작성하고 6가지 토픽을 완료하면 이슈 6개를 작성합니다. 예를 들면, AZ-900을 완료하면 관련해 이슈 1개를 작성하게 되겠죠.
 
@@ -60,7 +60,7 @@
 
 ![csc-study-crew-recruiting](https://github.com/hackersground-kr/cloudSkillsChallenge/blob/main/assets/csc-study-crew-recruiting.jpg?raw=true)
 
-위 그림과 같이 캡틴 분들께서 스터디 팀의 방향을 작성해두셨을 겁니다. 동료를 찾아 챌린지에 함께하세요!
+위 그림과 같이 캡틴 분들께서 스터디 팀의 방향을 작성해두셨을 겁니다. 동료를 찾아 챌린지에 함께해요!
 
 ## QnA
 
