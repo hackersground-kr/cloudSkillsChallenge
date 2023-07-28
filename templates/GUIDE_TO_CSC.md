@@ -26,7 +26,8 @@
 
 링크에 들어가 아래 캡처화면 오른쪽에 보이는 “과제에 참가” 버튼을 클릭하면 완료!
 
-![microsoft_learn_participate](https://github.com/kei01138/hackers-ground/blob/main/assets/microsoft_learn_participate.png?raw=true)
+<img src="https://github.com/kei01138/hackers-ground/blob/main/assets/microsoft_learn_participate.png?raw=true" width=100% height=auto alt="microsoft_learn_participate"/>
+
 
 ## 챌린지 완주요령
 
