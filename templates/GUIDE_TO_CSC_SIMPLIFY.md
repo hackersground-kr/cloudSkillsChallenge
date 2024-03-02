@@ -13,6 +13,11 @@
 
 6가지 미션 중 각자 이수하려는 과목이 있으실텐데 아래 링크를 통해 로그인 후 신청하시면 됩니다.
 
+챌린지를 신청해 교육을 이수할 때 엣지 브라우저를 활용해 진행하시는 걸 추천해 드립니다. (크롬 브라우저에서 진도 체크가 제대로 안 되는 버그를 파악했습니다.)
+
+[엣지 브라우저 다운로드](https://www.microsoft.com/ko-kr/edge/download)
+
+
 ## 클라우드 스킬 챌린지 6가지 미션
 
 1. **[클라우드] 애저 기초 (AZ-900) 챌린지** 👉 [챌린지 바로가기](https://aka.ms/hg/csc/az-900)
@@ -34,11 +39,7 @@
 <img src="https://github.com/kei01138/hackers-ground/blob/main/assets/microsoft_learn_participate.png?raw=true" width=70% height=auto alt="microsoft_learn_participate"/>
 
 
-## 챌린지 완주요령
-
-챌린지를 신청해 교육을 이수할 때 엣지 브라우저를 활용해 진행하시는 걸 추천해 드립니다. (크롬 브라우저에서 진도 체크가 제대로 안 되는 버그를 파악했습니다.)
-
-[엣지 브라우저 다운로드](https://www.microsoft.com/ko-kr/edge/download)
+## 챌린지 완주 요령
 
 진도 체크를 위해 확인할 2가지가 있습니다. 녹색 경험치 박스와 하늘색 계속 버튼입니다. 아래 예시를 확인해 주세요.
 
