@@ -4,6 +4,11 @@
 
 [클라우드 스킬 챌린지](https://aka.ms/hg/csc) 신청해 주신 분들께 감사 인사드립니다. 진행하시는데 도움을 드리고자 합니다.
 
+## 친구와 함께하기
+
+친구와 함꼐 진행하실 분들은 현재 메일 혹은 아래 링크를 공유해주세요!
+* [클라우드 스킬 챌린지](https://aka.ms/hg/csc): https://aka.ms/hg/csc
+
 ## 클라우드 스킬 챌린지 참가요령
 
 6가지 토픽 중 각자 이수하려는 과목이 있으실텐데 아래 링크를 통해 로그인 후 신청하시면 됩니다.
@@ -45,23 +50,11 @@
 
    ![next_sky_button](https://github.com/microsoft/hackers-ground/blob/main/assets/next_sky_button.png?raw=true)
 
-## 챌린지 완료인증
+## 챌린지 끝나면 자격증 시험치자!
 
-6가지 챌린지 중 토픽을 하나씩 완료할 때마다 [깃헙 레포](https://github.com//hackersground-kr/CloudSkillsChallenge/issues)에 아래 정보를 포함해 이슈를 작성해 주세요.
-
-즉, 1가지 토픽을 완료하면 이슈 1개를 작성하고 6가지 토픽을 완료하면 이슈 6개를 작성합니다. 예를 들면, AZ-900을 완료하면 관련해 이슈 1개를 작성하게 되겠죠.
-
-### 챌린지 완료인증 예시
-
-![challenge-completion-example](https://github.com/microsoft/hackers-ground/blob/main/assets/challenge-completion-example.png?raw=true)
-
-위 그림과 같이 3가지 정보(`깃헙 ID`, `Microsoft Learn 프로필 링크`, `클라우드 스킬 챌린지 토픽/코드`)를 담아 [깃헙 이슈](https://aka.ms/hg/csc/completion)를 작성하시면 조직위원회에서 확인 후 반영할 예정입니다.
-
-## 스터디원 모집
-
-![csc-study-crew-recruiting](https://github.com/hackersground-kr/cloudSkillsChallenge/blob/main/assets/csc-study-crew-recruiting.jpg?raw=true)
-
-위 그림과 같이 캡틴 분들께서 스터디 팀의 방향을 작성해두셨을 겁니다. 동료를 찾아 챌린지에 함께해요!
+- 미션을 완주하신 분들은 온라인으로 집에서 편히 자격증 시험에 응시할 수 있습니다.
+- 마이크로소프트에서 발급하는 국제공인자격증으로써 졸업요건, 전문성 입증 등에 사용될 수 있습니다.
+- 챌린지가 끝나고 2주 이내에 안내 메일 보내드리겠습니다
 
 ## QnA
 
