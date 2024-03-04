@@ -59,4 +59,5 @@
 
 ## QnA
 
-궁금한 부분은 [디스코드](https://aka.ms/hg/discord)로 문의하세요!
+* 궁금한 부분은 [디스코드](https://aka.ms/hg/discord)로 문의하세요!
+* 실시간 소통이 필요하시다면 [오카방](https://aka.ms/student-developers/daegu)(비밀번호 8080)을 활용해주세요!
