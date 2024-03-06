@@ -7,7 +7,7 @@
 ## 친구와 함께하기
 
 친구와 함께 진행하실 분들은 현재 메일 혹은 아래 링크를 공유해주세요!
-* [클라우드 스킬 챌린지](https://aka.ms/hg/csc): https://aka.ms/hg/csc
+* [챌린지 신청폼](https://aka.ms/hg/csc/register): https://aka.ms/hg/csc/register
 
 ## 클라우드 스킬 챌린지 참가요령
 
