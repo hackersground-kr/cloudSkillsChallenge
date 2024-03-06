@@ -92,9 +92,9 @@
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="" target="_blank" title="해커그라운드 박찬욱">
       <img src="people/박찬욱_썸네일2.jpeg" alt="해커그라운드 박찬욱" width="251"/> <br/>
-    </a>&nbsp;
+    </a>
     <p>해커그라운드 박찬욱</p>
-  </div>&nbsp;
+  </div>
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="" target="_blank" title="영남대 멋쟁이사자처럼 윤금재">
       <img src="people/윤금재_썸네일.jpeg" alt="영남대 멋쟁이사자처럼 윤금재" width="251"/> <br/>
@@ -112,7 +112,7 @@
       <img src="people/이시영_썸네일.jpeg" alt="계명대 멋쟁이사자처럼 이시영" width="251"/> <br/>
     </a>
     <p>계명대 멋쟁이사자처럼 이시영</p>
-  </div>&nbsp;
+  </div>
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="" target="_blank" title="경북대 MLSA 조해민">
       <img src="people/조해민_썸네일.jpeg" alt="경북대 MLSA 조해민" width="251"/> <br/>
@@ -124,7 +124,7 @@
       <img src="people/황지현_썸네일.jpeg" alt="경북대 L&C 황지현" width="251"/> <br/>
     </a>
     <p>경북대 L&C 황지현</p>
-  </div>&nbsp;
+  </div>
 </div>
 
 
