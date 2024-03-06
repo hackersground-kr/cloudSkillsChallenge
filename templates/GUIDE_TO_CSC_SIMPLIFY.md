@@ -19,10 +19,11 @@
 
 ## MS Learn 회원가입
 1. [Microsoft Learn 홈페이지](https://learn.microsoft.com/ko-kr/)에 들어가서 회원가입을 진행합니다!(Microsoft 계정이 있으시면 로그인해주세요!)
-2. MS Learn 프로필 링크를 준비합니다! 
+2. MS Learn 프로필 링크를 준비합니다!  
+
    <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-home.png?raw=true" width=70% height=auto alt="microsoft_learn_home"/>
    <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-Profile1.png?raw=true" width=70% height=auto alt="microsoft_learn_profile"/>
-   <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-Profile2.png?raw=true" width=70% height=auto alt="microsoft_learn_profile_link"/>
+   <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-Profile4.png?raw=true" width=70% height=auto alt="microsoft_learn_profile_link"/>
 
 
 
