@@ -74,6 +74,29 @@
 - 마이크로소프트에서 발급하는 국제공인자격증으로써 졸업요건, 전문성 입증 등에 사용될 수 있습니다.
 - 미션별 홈페이지 하단의 자격증 시험 개요를 참고하세요!
 
+## 챌린지 스트리밍 진행자
+<div style="display: flex; justify-content: center; align-items: center;">
+  <br/>
+
+  <a href="" target="_blank" title="해커그라운드 김근찬">
+    <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
+    해커그라운드 김근찬
+  </a>&nbsp;
+
+  <a href="" target="_blank" title="해커그라운드 김근찬">
+    <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
+    해커그라운드 김근찬
+  </a>&nbsp;
+
+  <a href="" target="_blank" title="해커그라운드 김근찬">
+    <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
+    해커그라운드 김근찬
+  </a>&nbsp;
+
+</div>
+
+
+
 ---
 
 ## 🎭 해커그라운드 개인정보 보호정책
