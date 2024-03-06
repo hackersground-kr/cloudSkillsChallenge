@@ -9,6 +9,19 @@
 친구와 함께 진행하실 분들은 현재 메일 혹은 아래 링크를 공유해주세요!
 * [챌린지 신청폼](https://aka.ms/hg/csc/register): https://aka.ms/hg/csc/register
 
+## 스트리밍 안내
+
+스트리밍은 19시에 시작해 21시 쯤 끝날 예정입니다. 👇아래 링크는 스트리밍 영상으로 연결됩니다.👇  
+
+* [클라우드 AZ-900](https://aka.ms/hg/csc/az-900/live) - 수 3/13 3/20 3/27
+* [데이터분석 DP-900](https://aka.ms/hg/csc/dp-900/live) - 목 3/14 3/21 3/28
+* [BI+앱개발 PL-900](https://aka.ms/hg/csc/pl-900/live) - 금 3/15 3/22 3/29
+* [보안 SC-900](https://aka.ms/hg/csc/sc-900/live) - 토 3/16 3/23 3/30
+* [인공지능 AI-900](https://aka.ms/hg/csc/ai-900/live) - 월 3/18 3/25 4/1
+* [협업툴 MS-900](https://aka.ms/hg/csc/ms-900/live) - 화 3/19 3/26 4/2
+
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/클스챌_진행자.png?raw=true" width=70% height=auto alt="csc_instructor"/>
+
 ## 클라우드 스킬 챌린지 참가요령
 
 6가지 미션 중 각자 이수하려는 과목이 있으실텐데 아래 링크를 통해 로그인 후 신청하시면 됩니다.
