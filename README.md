@@ -1,7 +1,7 @@
-# CloudSkillsChallenge
+# ☁️ CloudSkillsChallenge
 클라우드 스킬 챌린지로 함께 공부해요!
 
-# 해커그라운드
+# 🦦 해커그라운드
 
 <div style="text-align: center;">
   <img src="assets/banner-1920x480.png" alt="해커그라운드 배너" width="100%"/>
@@ -69,13 +69,13 @@
 * [클라우드 스킬 챌린지](https://aka.ms/hg/csc): https://aka.ms/hg/csc
 
 
-## 챌린지 끝나면 자격증 시험치자!
+## ✏️ 챌린지 끝나면 자격증 시험치자!
 
 - 미션을 완주하신 분들은 온라인으로 집에서 편히 자격증 시험에 응시할 수 있습니다.
 - 마이크로소프트에서 발급하는 국제공인자격증으로써 졸업요건, 전문성 입증 등에 사용될 수 있습니다.
 - 미션별 홈페이지 하단의 자격증 시험 개요를 참고하세요!
 
-## 챌린지 스트리밍 진행자
+## 📡 챌린지 스트리밍 진행자
 <div style="display: flex; justify-content: center; align-items: center;">
   <br/>
   <div style="display: flex; justify-content: center; align-items: center;">
