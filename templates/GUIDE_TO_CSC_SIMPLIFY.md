@@ -56,9 +56,9 @@
 
 ## 챌린지 참가 방법
 
-링크에 들어가 아래 캡처화면 오른쪽에 보이는 “과제에 참가” 버튼을 클릭하면 완료!
+👆위 **챌린지 바로가기**로 들어가면👆 **`자기주도`** 탭에 모듈이 2~6개정도 있습니다. 아래 캡처화면 왼쪽에 보이는 **`시작`** 버튼을 클릭하면 모듈 공부 시작!
 
-<img src="https://github.com/kei01138/hackers-ground/blob/main/assets/microsoft_learn_participate.png?raw=true" width=70% height=auto alt="microsoft_learn_participate"/>
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn_participate.png?raw=true" width=70% height=auto alt="Microsoft Learn Participate"/>
 
 
 ## 챌린지 완주 요령
