@@ -84,19 +84,47 @@
     <p>해커그라운드 김근찬</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="" target="_blank" title="해커그라운드 김근찬">
-      <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
+    <a href="" target="_blank" title="경북대 Get IT 김근희">
+      <img src="people/김근희_썸네일.jpeg" alt="경북대 Get IT 김근희" width="251"/> <br/>
     </a>&nbsp;
-    <p>해커그라운드 김근찬</p>
+    <p>경북대 Get IT 김근희</p>
   </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="" target="_blank" title="해커그라운드 김근찬">
-      <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="해커그라운드 박찬욱">
+      <img src="people/박찬욱_썸네일.jpeg" alt="해커그라운드 박찬욱" width="251"/> <br/>
     </a>&nbsp;
-    <p>해커그라운드 김근찬</p>
+    <p>해커그라운드 박찬욱</p>
   </div>
-  
-
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="영남대 멋쟁이사자처럼 윤금재">
+      <img src="people/윤금재_썸네일.jpeg" alt="영남대 멋쟁이사자처럼 윤금재" width="251"/> <br/>
+    </a>&nbsp;
+    <p>영남대 멋쟁이사자처럼 윤금재</p>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="경북대 블로캠 이상엽">
+      <img src="people/이상엽_썸네일.jpeg" alt="경북대 블로캠 이상엽" width="251"/> <br/>
+    </a>&nbsp;
+    <p>경북대 블로캠 이상엽</p>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="계명대 멋쟁이사자처럼 이시영">
+      <img src="people/이시영_썸네일.jpeg" alt="계명대 멋쟁이사자처럼 이시영" width="251"/> <br/>
+    </a>&nbsp;
+    <p>계명대 멋쟁이사자처럼 이시영</p>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="경북대 MLSA 조해민">
+      <img src="people/조해민_썸네일.jpeg" alt="경북대 MLSA 조해민" width="251"/> <br/>
+    </a>&nbsp;
+    <p>경북대 MLSA 조해민</p>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="경북대 L&C 황지현">
+      <img src="people/황지현_썸네일.jpeg" alt="경북대 L&C 황지현" width="251"/> <br/>
+    </a>&nbsp;
+    <p>경북대 L&C 황지현</p>
+  </div>
 </div>
 
 
