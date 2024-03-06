@@ -26,8 +26,6 @@
    <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-Profile4.png?raw=true" width=70% height=auto alt="microsoft_learn_profile_link"/>
 
 
-
-
 ## 클라우드 스킬 챌린지 6가지 미션
 
 1. **[클라우드] 애저 기초 (AZ-900) 챌린지** 👉 [챌린지 바로가기](https://aka.ms/hg/csc/az-900)

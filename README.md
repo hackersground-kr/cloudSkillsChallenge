@@ -17,32 +17,33 @@
 
 - [클라우드 스킬 챌린지 지금 신청하기](https://aka.ms/hg/csc/register) 👈 등록과 동시에 수강 가능합니다.
 
-## ⏰ 해커그라운드 클라우드 스킬 챌린지 일정
+## 클라우드 스킬 챌린지 일정
 
-- 참가 신청기간: 2023년 8월 7일 0시 - 2023년 8월 27일 23시 59분 👈 참가 신청과 동시에 수강 가능합니다.
-- 결과제출 마감기한: 2023년 8월 27일 23시 59분
+- 참가 신청기간: 2024년 3월 7일 0시 - 2024년 4월 2일 23시 59분 👈 참가 신청과 동시에 수강 가능합니다.
+- 결과제출 마감기한: 2024년 4월 2일 23시 59분
 
 
 ## 🙆🏻‍♀️ 해커그라운드 클라우드 스킬 챌린지 참여 자격
 
-- 참여하고 싶은 누구나 가능합니다! 단...
-  - 대구/경북 활동 17세 ~ 39세 청년이어야 합니다.
+- 참여하고 싶은 누구나 가능합니다!
 
 
 ## 🏃🏻‍♂️ 해커그라운드 클라우드 스킬 챌린지 참여 방법
 
+1. MS Learn 홈페이지의 프로필 링크를 체크합니다.
 1. 해커그라운드 클라우드 스킬 챌린지 이벤트에 참가 신청합니다.
 1. 참가신청 후 곧바로 수강을 시작합니다.
 1. 총 6개의 챌린지 미션을 모두 완료합니다.
 1. 각 챌린지 미션을 완료할 때 마다 [이슈를 생성해][submit] 운영진에게 제출합니다.
 1. 챌린지 도중 궁금한 사항이 있을 땐 언제든 [디스코드 질문/답변][qna] 채널을 이용해 주세요.
 
-## 🏆 해커그라운드 클라우드 스킬 챌린지 상품
+## MS Learn 회원가입
+1. [Microsoft Learn 홈페이지](https://learn.microsoft.com/ko-kr/)에 들어가서 회원가입을 진행합니다!(Microsoft 계정이 있으시면 로그인해주세요!)
+2. MS Learn 프로필 링크를 준비합니다!  
 
-- 챌린지 미션 두 개 완료할 때 마다 Microsoft 자격증 시험 무료 바우처 제공 👉 최대 3개 바우처 수령 가능
-
-> 챌린지 완주 선착순으로 바우처 제공
-> 상품 관련 세부 사항은 예고 없이 달라질 수 있습니다.
+   <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-home.png?raw=true" width=70% height=auto alt="microsoft_learn_home"/>
+   <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-Profile1.png?raw=true" width=70% height=auto alt="microsoft_learn_profile"/>
+   <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-Profile4.png?raw=true" width=70% height=auto alt="microsoft_learn_profile_link"/>
 
 
 ## ✅ 해커그라운드 클라우드 스킬 챌린지 미션
@@ -58,12 +59,17 @@
 1. **[보안] 보안 기초 (SC-900) 챌린지** 👉 [챌린지 바로가기](https://aka.ms/hg/csc/sc-900)
 1. **[협업툴] Microsoft 365 기초 (MS-900) 챌린지** 👉 [챌린지 바로가기](https://aka.ms/hg/csc/ms-900)
 
+## 친구와 함께하기
 
-## 📋 해커그라운드 클라우드 스킬 챌린지 자격증 시험
+친구와 함께 진행하실 분들은 현재 메일 혹은 아래 링크를 공유해주세요!
+* [클라우드 스킬 챌린지](https://aka.ms/hg/csc): https://aka.ms/hg/csc
 
-- 온라인으로 집에서 편히 자격증 시험에 응시할 수 있습니다.
-- 집에서 자격증 시험을 치르기 곤란한 경우 아래 링크를 통해 별도의 시험 장소를 예약한 후 응시하세요.
-  - 자격증 시험 신청 링크 👉 [준비중]
+
+## 챌린지 끝나면 자격증 시험치자!
+
+- 미션을 완주하신 분들은 온라인으로 집에서 편히 자격증 시험에 응시할 수 있습니다.
+- 마이크로소프트에서 발급하는 국제공인자격증으로써 졸업요건, 전문성 입증 등에 사용될 수 있습니다.
+- 미션별 홈페이지 하단의 자격증 시험 개요를 참고하세요!
 
 ---
 
@@ -100,7 +106,6 @@
 </div>
 
 
-[submit]: https://github.com/hackersground-kr/CloudSkillsChallenge/issues
 [qna]: https://aka.ms/hg/discord
 [privacy]: https://github.com/microsoft/hackers-ground/blob/main/PRIVACY_POLICY.md
 [coc]: https://github.com/microsoft/hackers-ground/blob/main/CODE_OF_CONDUCT.md
