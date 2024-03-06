@@ -77,21 +77,25 @@
 ## 챌린지 스트리밍 진행자
 <div style="display: flex; justify-content: center; align-items: center;">
   <br/>
-
-  <a href="" target="_blank" title="해커그라운드 김근찬">
-    <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
-    해커그라운드 김근찬
-  </a>&nbsp;
-
-  <a href="" target="_blank" title="해커그라운드 김근찬">
-    <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
-    해커그라운드 김근찬
-  </a>&nbsp;
-
-  <a href="" target="_blank" title="해커그라운드 김근찬">
-    <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
-    해커그라운드 김근찬
-  </a>&nbsp;
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="해커그라운드 김근찬">
+      <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
+    </a>&nbsp;
+    <p>해커그라운드 김근찬</p>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="해커그라운드 김근찬">
+      <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
+    </a>&nbsp;
+    <p>해커그라운드 김근찬</p>
+  </div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank" title="해커그라운드 김근찬">
+      <img src="people/김근찬_썸네일.jpeg" alt="해커그라운드 김근찬" width="251"/> <br/>
+    </a>&nbsp;
+    <p>해커그라운드 김근찬</p>
+  </div>
+  
 
 </div>
 
