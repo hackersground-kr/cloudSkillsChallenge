@@ -12,7 +12,7 @@
 ## 📡 스트리밍 안내
 
 스트리밍은 19시에 시작해 21시 쯤 끝날 예정입니다. 👇아래 링크는 스트리밍 영상으로 연결됩니다.👇  
-
+* [클스챌 전체 플레이리스트](https://aka.ms/hg/csc/playlist) 
 * [클라우드 AZ-900](https://aka.ms/hg/csc/az-900/live) - 수 3/13 3/20 3/27
 * [데이터분석 DP-900](https://aka.ms/hg/csc/dp-900/live) - 목 3/14 3/21 3/28
 * [BI+앱개발 PL-900](https://aka.ms/hg/csc/pl-900/live) - 금 3/15 3/22 3/29
