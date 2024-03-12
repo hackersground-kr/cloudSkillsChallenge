@@ -29,4 +29,4 @@
 
 <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/thumbnail/AZ-900-1주차.png?raw=true" width=100% height=auto alt="csc_1st_streaming"/>
 
-영남대 멋쟁이사자처럼 윤금재님께서 이번주 수요일 13일 19시에 [클라우드 AZ-900](https://aka.ms/hg/csc/az-900/live) 시리즈 스트리밍을 시작하세요. 같이 공부해요!
+영남대 멋쟁이사자처럼 윤금재님께서 3/13 수요일 19시에 [클라우드 AZ-900](https://aka.ms/hg/csc/az-900/live) 시리즈 스트리밍을 시작하세요. 같이 공부해요!
