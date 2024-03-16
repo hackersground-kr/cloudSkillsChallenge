@@ -10,7 +10,9 @@
 클라우드 스킬 챌린지에 참가하세요  
 
 ## 클스챌 알아보기
-[클스챌 알아보기](https://aka.ms/hg/csc): https://aka.ms/hg/csc
+* [클스챌 알아보기](https://aka.ms/hg/csc): https://aka.ms/hg/csc
+* [클스챌 신청하기](https://aka.ms/hg/csc/register): https://aka.ms/hg/csc/register
+
 
 <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_1.PNG?raw=true" width=70% height=auto alt="flutter"/>
 
