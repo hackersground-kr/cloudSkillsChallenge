@@ -12,10 +12,10 @@
 ## 클스챌 알아보기
 [클스챌 알아보기](https://aka.ms/hg/csc): https://aka.ms/hg/csc
 
-<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_1.png?raw=true" width=70% height=auto alt="flutter"/>
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_1.PNG?raw=true" width=70% height=auto alt="flutter"/>
 
-<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_2.png?raw=true" width=70% height=auto alt="flutter"/>
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_2.PNG?raw=true" width=70% height=auto alt="flutter"/>
 
-<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_3.png?raw=true" width=70% height=auto alt="flutter"/>
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_3.PNG?raw=true" width=70% height=auto alt="flutter"/>
 
-<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_4.png?raw=true" width=70% height=auto alt="flutter"/>
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/cardNews/flutter_4.PNG?raw=true" width=70% height=auto alt="flutter"/>
