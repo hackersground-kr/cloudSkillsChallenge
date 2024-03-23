@@ -24,7 +24,7 @@
 
 * [라이브 스트리밍 링크](https://aka.ms/hg/csc/playlist)
 
-<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/클스챌_진행자.png?raw=true" width=100% height=auto alt="클라우드 스킬 챌린지 스트리밍 진행자"/>
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/클스챌_진행자.png?raw=true" width=60% height=auto alt="클라우드 스킬 챌린지 스트리밍 진행자"/>
 
 
 
