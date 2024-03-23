@@ -33,32 +33,32 @@
 
 ## 아래 제목을 클릭하면 스트리밍 링크로 연결됩니다
 
-### [클라우드 공부하기 AZ-900](https://aka.ms/hg/csc/az-900/live)
+### [클라우드 공부하기 AZ-900](https://aka.ms/hg/csc/az-900/1)
 
 <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/thumbnail/AZ-900-1주차.png?raw=true" width=100% height=auto alt="csc_1st_streaming"/>
 
 
-### [데이터분석 공부하기 DP-900](https://aka.ms/hg/csc/dp-900/live)
+### [데이터분석 공부하기 DP-900](https://aka.ms/hg/csc/dp-900/1)
 
 <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/thumbnail/DP-900-1주차.png?raw=true" width=100% height=auto alt="csc_1st_streaming"/>
 
 
-### [BI+앱개발 공부하기 PL-900](https://aka.ms/hg/csc/pl-900/live)
+### [BI+앱개발 공부하기 PL-900](https://aka.ms/hg/csc/pl-900/1)
 
 <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/thumbnail/PL-900-1주차.png?raw=true" width=100% height=auto alt="csc_1st_streaming"/>
 
 
-### [보안 공부하기 SC-900](https://aka.ms/hg/csc/sc-900/live)
+### [보안 공부하기 SC-900](https://aka.ms/hg/csc/sc-900/1)
 
 <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/thumbnail/SC-900-1주차.png?raw=true" width=100% height=auto alt="csc_1st_streaming"/>
 
 
-### [인공지능 공부하기 AI-900](https://aka.ms/hg/csc/ai-900/live)
+### [인공지능 공부하기 AI-900](https://aka.ms/hg/csc/ai-900/1)
 
 <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/thumbnail/AI-900-1주차.png?raw=true" width=100% height=auto alt="csc_1st_streaming"/>
 
 
-### [협업툴 공부하기 MS-900](https://aka.ms/hg/csc/ms-900/live)
+### [협업툴 공부하기 MS-900](https://aka.ms/hg/csc/ms-900/1)
 
 <img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/thumbnail/MS-900-1주차.png?raw=true" width=100% height=auto alt="csc_1st_streaming"/>
 
