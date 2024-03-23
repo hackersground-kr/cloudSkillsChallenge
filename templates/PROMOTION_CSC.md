@@ -4,9 +4,9 @@
 
 * [클라우드 스킬 챌린지 신청하기](https://aka.ms/hg/csc/register)
 
-<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/클스챌_썸네일.png?raw=true" width=60% height=auto alt="Microsoft Learn 홈페이지"/>
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/클스챌_썸네일.png?raw=true" width=60% height=auto alt="Cloud Skills Challenge Thumbnail"/>
 
-<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/클스챌_뭐에요?.png?raw=true" width=60% height=auto alt="Microsoft Learn 홈페이지"/>
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/클스챌_뭐에요.png?raw=true" width=60% height=auto alt="Cloud Skills Challenge"/>
 
 
 ### Micsoft Learn 홈페이지
