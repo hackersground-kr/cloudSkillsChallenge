@@ -7,12 +7,13 @@
 
 ### Micsoft Learn 홈페이지
 
-![Microsoft Learn 홈페이지](assets/MSLearn-Homepage.jpg)
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/MSLearn-Homepage.jpg?raw=true" width=100% height=auto alt="Microsoft Learn 홈페이지"/>
+
 
 
 ### Microsoft Learn 인기 학습경로
 
-![Microsoft Learn 인기 학습경로](assets/Popular-module.jpg)
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/Popular-module.jpg?raw=true" width=100% height=auto alt="Microsoft Learn 인기 학습경로"/>
 
 
 # 클라우드 스킬 챌린지 스트리밍
@@ -21,10 +22,11 @@
 
 클라우드 스킬 챌린지에 참여하실 분들을 위해 스트리밍을 준비했습니다! 함께 공부하고 실전 능력을 키워봐요! 아래 플레이리스트로 가시면 주제별 스트리밍을 확인하실 수 있습니다. 관심있는 미션, 참여하고 있는 미션의 스트리밍 일정을 확인하시고, 유튜브 앱에서 “알림 받기” 체크하시면 일정에 맞춰 안내드립니다
 
+* [라이브 스트리밍 링크](https://aka.ms/hg/csc/playlist)
 
-![클라우드 스킬 챌린지 스트리밍 진행자](assets/클스챌_진행자.png)
+<img src="https://github.com/hackersground-kr/CloudSkillsChallenge/blob/main/assets/클스챌_진행자.png?raw=true" width=100% height=auto alt="클라우드 스킬 챌린지 스트리밍 진행자"/>
 
-* [라이브 스트리밍 링크](https://aka.ms/hg/csc/playlist): https://aka.ms/hg/csc/playlist
+
 
 ## 아래 제목을 클릭하면 스트리밍 링크로 연결됩니다
 
